@@ -28,7 +28,7 @@
 <a href="https://linkedin.com/in/aonyendo-paul-neteish-73577324b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aonyendo-paul-neteish-73577324b" height="30" width="40" /></a>
 <a href="https://fb.com/aonyendo.paul.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aonyendo.paul.7" height="30" width="40" /></a>
 <a href="https://instagram.com/nit_paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nit_paul" height="30" width="40" /></a>
-<a href="mailto:aonyendopaul@gmail.com" target="blank"><img align="center" src="[path_to_gmail_icon](https://freelogopng.com/images/all_img/1657906383gmail-icon-png.png)" alt="aonyendopaul@gmail.com" height="30" width="40" /></a>
+<a href="mailto:aonyendopaul@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1200px-Gmail_Icon_%282013-2020%29.svg.png" alt="aonyendopaul@gmail.com" height="30" width="40" /></a>
 
 </p>
 
