@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate Homo sapien about programming and learning new language.</h3>
+<h3 align="center">A passionate Homo Sapien dedicated to expanding skills and embracing new programming horizons</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitpaul&label=Profile%20views&color=0e75b6&style=flat" alt="nitpaul" /> </p>
 
