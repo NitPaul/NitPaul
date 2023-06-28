@@ -6,6 +6,8 @@
 
 <h3 align="center">A passionate Homo Sapien dedicated to expanding skills and embracing new programming horizons</h3>
 
+<img src="https://github.com/MeherunNessaSuchana/PetHome/assets/116294325/d20109a7-461b-4d79-a487-9087f962e9ca" height="200" width="350" style="display: block;margin-left: auto; margin-right: auto;" title="NitPaul" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitpaul&label=Profile%20views&color=0e75b6&style=flat" alt="nitpaul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitpaul" alt="nitpaul" /></a> </p>
