@@ -6,7 +6,10 @@
 
 <h3 align="center">A passionate Homo Sapien dedicated to expanding skills and embracing new programming horizons</h3>
 
-<img src="https://github.com/MeherunNessaSuchana/PetHome/assets/116294325/d20109a7-461b-4d79-a487-9087f962e9ca" height="200" width="350" style="display: block;margin-left: auto; margin-right: auto;" title="NitPaul" />
+<p align="center">
+  <img src="https://github.com/MeherunNessaSuchana/PetHome/assets/116294325/d20109a7-461b-4d79-a487-9087f962e9ca" alt="NitPaul" height="200" width="350" />
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitpaul&label=Profile%20views&color=0e75b6&style=flat" alt="nitpaul" /> </p>
 
