@@ -17,7 +17,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [HotelManagementSystem](https://github.com/EhsanulHaqueSiam/HotelManagementSystem.git)
+- 🔭 I'm working on [PharmacyManagementSystem](https://github.com/EhsanulHaqueSiam/PharmacyManagementSystem)
+  
+- 🔭 I have worked on [HotelManagementSystem](https://github.com/EhsanulHaqueSiam/HotelManagementSystem.git)
+  
+- 🔭 I have worked as a Research Assistant in statistical analysis under [Md Mortuza Ahmed](https://www.researchgate.net/profile/Md-Ahmmed)
+  
+- 🌱 I’m currently learning **Machine learning, Python, SPSS, Scraping**
 
 - 🌱 I’m currently learning **Java Swing, C++ Data Structure, SQL Data Base Management.**
 
@@ -27,7 +33,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NitPaul](https://github.com/NitPaul)
 
-- 💬 Ask me about **C, C++ and Java**
+- 💬 Ask me about **Python, Machine learning, Statistical Analysis, C#, C, C++ and Java**
 
 - 📫 How to reach me **aonyendopaul@gmail.com**
 
