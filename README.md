@@ -94,13 +94,19 @@ Computer Science student at **AIUB** (CGPA: **3.97/4.00**) passionate about **AI
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitpaul&show_icons=true&locale=en&theme=radical" alt="nitpaul" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitpaul&show_icons=true&locale=en&layout=compact&theme=radical" alt="nitpaul" height="165" />
+  <a href="https://github.com/NitPaul">
+    <img src="https://github-readme-stats.vercel.app/api?username=NitPaul&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  </a>
+  <a href="https://github.com/NitPaul">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitPaul&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
+  </a>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitpaul&theme=radical" alt="nitpaul" />
-</p>
+<div align="center">
+  <a href="https://github.com/NitPaul">
+    <img src="https://streak-stats.demolab.com?user=NitPaul&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
 
 ---
 
